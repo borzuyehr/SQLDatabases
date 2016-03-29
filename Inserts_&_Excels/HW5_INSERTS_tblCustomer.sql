@@ -1,0 +1,15 @@
+INSERT INTO tblCustomer VALUES ('405', 'Barrington', 'Margaret', '1765 Roundtree Pkwy', 'reno', 'nv', '895091454', 'USA', '7/12/2006', 'barry@hotmail.com', '7757464561');
+INSERT INTO tblCustomer VALUES ('625', 'Dao', 'Phong', '341 West Park', 'Fresno', 'CA', '96137', NULL, '9/02/2015', 'daop@gmail.com', '8582138982');
+INSERT INTO tblCustomer VALUES ('6774', 'Phillips', 'Kendall', '44512 Sawbuck Path', 'SPARKS', 'nv', '89432', 'USA', '8/12/2000', 'flipper@gmail.com', '7753324636');
+INSERT INTO tblCustomer VALUES ('7831', 'Rodriguez', 'Karen', '4589 Marthiam', 'Chico', 'CA', '97111', NULL, '11/06/2008', 'rodriguez@aol.com', '8193821828');
+INSERT INTO tblCustomer VALUES ('8892', 'Twillers', 'Bethany', 'P.O.Box 5661', 'san jose', 'ca', '98123', 'USA', '4/01/2000', 'twillbeth@yahoo.com', '8098291838');
+INSERT INTO tblCustomer VALUES ('12001', 'Cranston', 'Brittany', '12 Sandstone', 'Sparks', 'NV', '89431', NULL, '4/12/2014', 'britters@ccb.com', '7753312199');
+INSERT INTO tblCustomer VALUES ('12006', 'Martinez', 'Guadalupe', '223 North Pinetree Drive', 'Reno', 'NV', '89511', NULL, '2/14/2012', 'gmartinez@ccu.edu', '7758837612');
+INSERT INTO tblCustomer VALUES ('21142', 'Candriller', 'Kathy', '2 Sedgeway', 'Laguna Beach', 'CA', '94567', NULL, '12/11/2015', 'kriller@mbu.edu', '6198813929');
+INSERT INTO tblCustomer VALUES ('21143', 'Jackson', 'Janice', '2341 Bramble Bush Drive', 'Sparks', 'NV', '894310112', NULL, '5/06/2014', 'jj@isp.all.com', '7753317188');
+INSERT INTO tblCustomer VALUES ('29188', 'Polanski', 'Tiffany', '5778 Battlemount Ct.', 'RENO', 'NV', '89507', NULL, '8/23/2011', 'skipole@gmail.com', '7757465771');
+INSERT INTO tblCustomer VALUES ('30192', 'Chen', 'Lian', '2319 Crest Dr', 'REno', 'Nv', '895030113', NULL, '8/30/1999', 'jester@here.com', '7757218991');
+INSERT INTO tblCustomer VALUES ('32018', 'Jones', 'Martin', '10 South Wilders', 'reno', 'nv', '895038912', 'USA', '2/12/2016', 'mmm@hard.com', '7753314838');
+INSERT INTO tblCustomer VALUES ('32817', 'Foster', 'Ben', '318 Western Ave', 'SAN diego', 'ca', '92381', NULL, '8/15/1999', 'fosterben@aol.com', '8583284483');
+INSERT INTO tblCustomer VALUES ('38817', 'Argiento', 'Bud', '1001 Catchway', 'Anaheim', 'CA', '95113', NULL, '3/12/2015', 'bud@cservices.com', '8037718991');
+INSERT INTO tblCustomer VALUES ('78112', 'Guili', 'Mary Anne', '4457 Meridith St', 'Irvine', 'CA', '97128', NULL, '10/09/2012', 'ma@san.rr.com', '6195621334');

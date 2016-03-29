@@ -1,0 +1,12 @@
+INSERT INTO tblItem VALUES ('A23441', 'New York City Monopoly Game Collector''s Edition', '29.95', '10');
+INSERT INTO tblItem VALUES ('A23771', 'Mysterium', '132.99', '12');
+INSERT INTO tblItem VALUES ('A34665', 'Boggle Deluxe 5x5', '34.95', '10');
+INSERT INTO tblItem VALUES ('A34882', 'Perudo', '10.95', '10');
+INSERT INTO tblItem VALUES ('A45111', 'How to Host a Murder - An Affair to Dismember', '28.95', '15');
+INSERT INTO tblItem VALUES ('B67123', 'Tiny Epic Galaxies', '39.99', '12');
+INSERT INTO tblItem VALUES ('B67466', 'Diplomacy: Game of Negotiation, Cunning and Deceit.', '43.95', '20');
+INSERT INTO tblItem VALUES ('B78244', 'Code Names', '19.95', '15');
+INSERT INTO tblItem VALUES ('B78500', 'Pandemic Legacy', '59.99', '12');
+INSERT INTO tblItem VALUES ('C26133', 'Knowledge Management: Create a Learning Organization', '395.95', '20');
+INSERT INTO tblItem VALUES ('C29179', 'Managing Change: The Game for an Executive Retreat', '259.95', '20');
+INSERT INTO tblItem VALUES ('C34122', 'A Game of Strategy, Negotiation and Excitement for Office Retreats', '169.95', '20');

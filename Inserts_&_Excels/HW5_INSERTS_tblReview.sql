@@ -1,0 +1,5 @@
+INSERT INTO tblReview VALUES ('2/12/2016', '1', 'This is the worst company I''ve ever dealt with. They still have not shipped my order and it was placed on January 26. I will never buy anything from them again. Ever.', '200335', 'A34665');
+INSERT INTO tblReview VALUES ('2/14/2016', '1', 'I don''t know how this company stays in business. They can''t ship anything on time, and their game selection isn''t all that great', '450137', 'C34122');
+INSERT INTO tblReview VALUES ('2/18/2016', '5', 'Shipping was fast, the game was in great shape, and I will order from them again. Highly recommend', '300221', 'A23771');
+INSERT INTO tblReview VALUES ('2/16/2016', '4', 'This is one of the few companies that will ship internationally fairly cost effectively. They are slow, but at least shipping isn''t a ridiculous amount.', '223344', 'A23771');
+INSERT INTO tblReview VALUES ('1/15/2016', '3', 'They are slow. They overship. They undership. They have the best shipping internationally, but nothing spectacular if you are shipping to the U.S. Buyer beware.', '445511', 'C34122');
